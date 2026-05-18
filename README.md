@@ -1,20 +1,29 @@
-Hey World! I'm **moose-lab**, building [**DevLog**](https://github.com/moose-lab/DevLog) and [**videoclaw**](https://github.com/moose-lab/videoclaw) — AI-native tools for developers and video creators. Independent builder shipping practical AI with TypeScript, Python & Next.js.
+# Hey, I'm moose-lab.
 
-<table width="1200px" cellspacing="0" cellpadding="0">
-<tr>
-<td width="600px" valign="top">
+Independent builder shipping AI-native tools for developer workflows, agent systems, and creative production. I mostly work in TypeScript, Python, and Next.js.
 
-**Dev Tools & Agents**
+**Current focus:** DevLog, QuickFork, videoclaw, and practical skill systems for agent-native builders.
 
-• [**DevLog**](https://github.com/moose-lab/DevLog) - AI-native developer journal & task center. Show, don't tell<br>• [CLI-Anything](https://github.com/moose-lab/CLI-Anything) - Making ALL software agent-native<br>• [api-ify](https://github.com/moose-lab/api-ify) - Turn any product into an API, no code required<br>• [nanoclaw](https://github.com/moose-lab/nanoclaw) - Lightweight agent for WhatsApp, Telegram, Slack & more<br>• [Star-Office-UI](https://github.com/moose-lab/Star-Office-UI) - A pixel office for your AI crew
+## Shipping Now
 
-</td>
-<td width="600px" valign="top">
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [DevLog](https://github.com/moose-lab/DevLog) | AI-native developer journal and vibe-kanban workstation for staying oriented while building. | TypeScript |
+| [QuickFork](https://github.com/moose-lab/QuickFork) | Turns GitHub repositories into fast overviews, launch copy, and share-ready infographic assets. | TypeScript |
+| [videoclaw](https://github.com/moose-lab/videoclaw) | Agent OS for AI video generation, from planning and model selection to audit-ready outputs. | Python |
+| [awesome-workplaces-skills](https://github.com/moose-lab/awesome-workplaces-skills) | Curated skills and workflows for builders working with AI agents. | JavaScript |
 
-**Creative & Visual AI**
+## Creative AI Experiments
 
-• [**videoclaw**](https://github.com/moose-lab/videoclaw) - The Agent OS for AI video generation<br>• [watermark-eraser](https://github.com/moose-lab/watermark-eraser) - Remove watermarks and overlays with AI<br>• [hairstyle-changer](https://github.com/moose-lab/hairstyle-changer) - Virtual hair try-on fitting room<br>• [ai-video-explainer](https://github.com/moose-lab/ai-video-explainer) - AI video explanation tool<br>• [AI-skills-tl-dr](https://github.com/moose-lab/AI-skills-tl-dr) - Expert-curated TL;DR for learning AI
+| Project | What it explores |
+| --- | --- |
+| [watermark-eraser](https://github.com/moose-lab/watermark-eraser) | AI-assisted cleanup for watermarks, logos, and text overlays. |
+| [hairstyle-changer](https://github.com/moose-lab/hairstyle-changer) | Virtual hair try-on with controllable hairstyle and color changes. |
+| [vibe-producing](https://github.com/moose-lab/vibe-producing) | Browser music creation from hummed melodies into loops and lyrics. |
+| [AI-skills-tl-dr](https://github.com/moose-lab/AI-skills-tl-dr) | Expert-curated TL;DR notes for learning and applying AI skills without the noise. |
 
-</td>
-</tr>
-</table>
+## Builder Notes
+
+- I care about agent-native software that produces inspectable artifacts, not black-box demos.
+- I like tools that turn messy creative or coding work into repeatable, reviewable workflows.
+- Most experiments start small, ship quickly, and get tightened through real usage.
