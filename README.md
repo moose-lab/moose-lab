@@ -10,8 +10,8 @@ My current attention is on harnessing agents and AI models: making them observab
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Sports AI Hub](https://github.com/moose-lab/sports-ai-hub) | Web app for awesome-sports-ai, including the Sports AI directory and World Cup 2026 surfaces. | TypeScript |
 | [awesome-sports-ai](https://github.com/moose-lab/awesome-sports-ai) | Curated sports-AI tools, models, data APIs, and analytics resources. | JavaScript |
+| [QuickFork](https://github.com/moose-lab/QuickFork) | Turns GitHub repositories into fast overviews, launch copy, and share-ready infographic assets. | TypeScript |
 | [DevLog](https://github.com/moose-lab/DevLog) | Searchable work journal and dashboard for coding-agent sessions. | TypeScript |
 
 ## Creative AI Experiments
@@ -19,8 +19,8 @@ My current attention is on harnessing agents and AI models: making them observab
 | Project | What it explores |
 | --- | --- |
 | [videoclaw](https://github.com/moose-lab/videoclaw) | Agent OS for AI video generation, from planning and model selection to audit-ready outputs. |
+| [DevLog](https://github.com/moose-lab/DevLog) | Searchable work journal and dashboard for coding-agent sessions. |
 | [vibe-producing](https://github.com/moose-lab/vibe-producing) | Browser music creation from hummed melodies into loops and lyrics. |
-| [stonk-striker](https://github.com/moose-lab/stonk-striker) | Browser game that turns stock and crypto charts into playable football runs. |
 
 ## Builder Notes
 
